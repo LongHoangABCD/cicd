@@ -8,8 +8,8 @@ Route::get('/', function () {
 });
 
 
-Route::get('/abv', function () {
-    echo "123";
+Route::get('/abc', function () {
+    echo "123456";
 });
 
 Route::get('/dashboard', function () {
